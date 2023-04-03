@@ -1,0 +1,23 @@
+Kevin has a fair amount of experience
+
+chris's layout is really nice, got the blocks to work pretty well
+
+andy's is pretty nice too
+
+I should learn grid
+
+always inspect while building page to see margins padding etc
+
+need to pay close attention in git when we initialize
+
+you can work in a branch instead of main when you're wanting to test a number
+of things. In that case, you'll push your updates to the branch instead of to main,
+and then you can merge the branch into main when you're ready
+
+we went through setting up new directory with git repository initialized in a new folder,
+doing this all through terminal
+
+you can run the connection from local to github any time after initializing the repo and
+making it on github
+
+this is the git add remote origin command
